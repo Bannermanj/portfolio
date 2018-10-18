@@ -27,7 +27,7 @@
   },
   "scripts": {
     "start:frontend": "react-scripts start",
-    "heroku-postbuild": "cd client && npm install && npm run build",
+    "heroku-postbuild": "cd port && npm install && npm run build",
     "start:backend": "nodemon src/server.js",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
