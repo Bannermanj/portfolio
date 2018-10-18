@@ -1,0 +1,78 @@
+#contact {
+  background-color: black;
+  color: white;
+  box-shadow: inset 100px 0px 100px -50px #d4d4cc,
+    inset -125px 0px 125px -50px #d4d4cc;
+}
+
+input {
+  display: block;
+  padding: 20px;
+  width: 298px;
+  font-size: 20px;
+  border-bottom: 5px solid black;
+  outline: 0;
+}
+input:hover {
+  display: block;
+  padding: 20px;
+  width: 298px;
+  font-size: 20px;
+  border-bottom: 5px solid black;
+  outline: 0;
+}
+textarea {
+  display: block;
+  padding: 20px;
+  height: 75px;
+  width: 300px;
+  font-size: 20px;
+  border-bottom: 5px solid black;
+  outline: 0;
+}
+textarea:hover {
+  display: block;
+  padding: 20px;
+  width: 300px;
+  font-size: 20px;
+  border-bottom: 5px solid black;
+  outline: 0;
+}
+form {
+  margin: auto;
+  width: 342px;
+  font-size: 20px;
+  outline: 0;
+}
+#contactSubmit {
+  padding: 5px;
+  color: black;
+  font-size: 20px;
+  background-color: white;
+  margin-bottom: 50px;
+  font-family: "Permanent Marker", cursive;
+  margin: 10px auto 50px auto;
+  outline: 0;
+}
+#contactSubmit:hover {
+  padding: 5px;
+  color: black;
+  font-size: 20px;
+  margin-bottom: 50px;
+  font-family: "Permanent Marker", cursive;
+  background-color: lightgray;
+  margin: 10px auto 50px auto;
+  outline: 0;
+}
+#contactForm {
+  padding-top: 50px;
+}
+#sentConfirmation {
+  color: white;
+  margin-bottom: -50px;
+}
+#contactIntro {
+  font-size: 18px;
+  padding-top: 25px;
+  margin-bottom: 0;
+}
